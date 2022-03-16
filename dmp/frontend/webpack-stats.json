@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "assets": {
+    "dmp.patient.bundles.js": {
+      "name": "dmp.patient.bundles.js",
+      "path": "/home/diop/Bureau/dmp/dmp/dmp/static/bundles/dmp.patient.bundles.js"
+    }
+  },
+  "chunks": {
+    "patient": [
+      "dmp.patient.bundles.js"
+    ]
+  }
+}
