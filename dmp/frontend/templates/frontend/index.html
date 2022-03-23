@@ -20,6 +20,11 @@
 <body>
     <div id="root"></div>
     {% csrf_token %}
+    <script>
+        url_spa = "{% url 'frontend:spa' %}"
+       
+
+    </script>
     <script src="{% static 'bundles/dmp.patient.bundles.js' %}"></script>
 </body>
 </html>
